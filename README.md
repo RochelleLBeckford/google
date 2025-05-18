@@ -9,9 +9,9 @@
     -   [ ] input element -> how the data is inputted by the user
     -   [ ] type attribute -> determines the type of input used
     -   [ ] different types of inputs:
-        -   [ ] text -> plain textbox on a form
-        -   [ ] submit -> turns the input element into a button for submitting the form data
-            -   [ ] value attribute -> can change the text of the "Submit" button
+        -   [ ] input type="text" -> plain textbox on a form
+        -   [ ] input type="submit" -> turns the input element into a button for submitting the form data
+            -   [ ] input value="Submit the form!" -> this attribute can change the text of the "Submit" button
 
 ---
 
